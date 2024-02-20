@@ -1,0 +1,180 @@
+.cate {
+    display: flex;
+    justify-content: space-eve;
+    align-items: center;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+
+}
+
+.navbar {
+    background-color: #fed703 ;
+    height: 80px;
+    font-weight: bold;
+    font-size: medium;
+    
+
+
+}
+
+.order {
+    border: 1px solid black;
+    margin-left: 20px ;
+    margin-right: 20px;
+}
+
+.fer {
+    font-size: 25px;
+    font-weight: bolder;
+    padding-left: 20px;
+}
+
+.carousel-inner {
+    height: 700px;
+    width: 100%;
+}
+
+.mid {
+    background-color: #fed703;
+    height: 800px;
+}
+
+.cards  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fed703;
+    margin: 50px;
+    
+    
+     
+}
+
+.card-img-top {
+    height: 400px;
+    border: none;
+}
+
+.cards > .a {
+    text-align: center;
+
+}
+
+.btn {
+   
+    margin-left: 140px;
+    border: 1px solid black;
+
+}
+
+
+
+.card-title {
+    text-align: center;
+    
+
+}
+
+.card-text {
+    text-align: center;
+    
+}
+
+.card-body {
+    background-color: #fed703;
+}
+
+
+
+
+
+body {
+    background-color: #fed703;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr; /* Two columns with equal width */
+    grid-gap: 20px; /* Gap between grid items */
+}
+
+/* Left section */
+.speech {
+    background-color: #fed703;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Right section */
+.picture {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+
+}
+.downtext {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+.uppertext {
+    margin-top: 10px;
+    font-size: 20px;
+}
+
+
+.heading {
+    
+    font-size: 50px;
+}
+
+.grid-container2 {
+    display: grid;
+    grid-template-columns: 2fr 1fr; /* Two columns with equal width */
+    grid-gap: 20px; /* Gap between grid items */
+}
+
+/* Left section */
+.speech2 {
+    background-color: #fed703;
+    padding: px;
+    text-align: center;
+}
+
+/* Right section */
+.picture2 {
+    
+    width: 100%;
+    height: 100%;
+
+}
+
+.downtext2 {
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.uppertext2 {
+   
+    margin-top: 10px;
+    font-size: 17px;
+    margin-left: 110px;
+    /* background-color: aliceblue; */
+
+
+}
+
+
+.heading2 {
+    
+    font-size: 40px;
+    margin-left: 110px;
+    margin-top: 20px; 
+    
+
+    
+}
